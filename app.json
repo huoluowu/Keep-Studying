@@ -1,0 +1,19 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#31c27c",
+    "navigationBarTitleText": "我的奋斗值",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh": true,
+    "backgroundColor":"#000000"
+
+
+
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
